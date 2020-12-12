@@ -8,3 +8,14 @@ img{
 h1{
     text-align: center;
 }
+.intro,table,.calc,form{
+    overflow: hidden;
+}
+.away{
+    width: 100%;
+}
+.align{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
