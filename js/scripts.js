@@ -55,12 +55,12 @@ function akaned(){
                         }
                       else if ( validFemale==true ) {
                         document.getElementById('result').textContent = "You were born on "+ akanDay+ " and your Akan name is " +femaleAkanName[actualBirthDay];
-                        document.getElementById("result").style.color = "green";
+                        document.getElementById("result").style.color = "black";
                         document.getElementById("resultintro").style.display = "none";
                        }
                       else if ( validMale==true) {
                         document.getElementById('result').textContent = "You were born on "+ akanDay+ " and your Akan name is " +maleAkanName[actualBirthDay];
-                        document.getElementById("result").style.color = "green";
+                        document.getElementById("result").style.color = "black";
                         document.getElementById("resultintro").style.display = "none";
                        }
                       else {
