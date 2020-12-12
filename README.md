@@ -21,7 +21,7 @@ Run the project on live server
 # Link
 
 
-Support and contact details
+* Support and contact details
 Email alegoantony047@gmail.com Phone +254715399590
 
 License
