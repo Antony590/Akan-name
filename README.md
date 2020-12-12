@@ -15,7 +15,7 @@ cd directory name
 Open project on code editor
 -$code .
 Run the project on live server
-Technologies Used
+# Technologies Used
 {This page was created using HTML,JAVASCRIPT, BOOTSTRAP and CSS. HTML was used for the structure of the Page outlook while CSS and BOOTSTRAP was used to style the web application and JAVASCRIPT was used to make the page responsive.}
 
 Link
