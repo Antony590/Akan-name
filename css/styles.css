@@ -26,3 +26,10 @@ form{
 caption{
     border: 1px solid gray;
 }
+.rsln{
+    align-self: center;
+    width: 60%;
+}
+.space{
+    width: 100px;
+}
