@@ -24,7 +24,7 @@ You'll only need a computer and internet to access my portfolio.
   * HTML was used for the structure of the Page outlook while CSS and BOOTSTRAP was used to style the web application and JAVASCRIPT was used to make the page responsive.}
 
 # Link
-
+https://antony590.github.io/Akan-name/
 
 # Support and contact details
 Email alegoantony047@gmail.com Phone +254715399590
