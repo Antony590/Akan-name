@@ -8,21 +8,26 @@ Antony Ondir
 
 # Setup/Installation Requirements
 You'll only need a computer and internet to access my portfolio.
-Clone the repository
-Git clone repository--link
-Move into the directory
-cd directory name
-Open project on code editor
+* Clone the repository
+* Git clone repository--link
+* Move into the directory
+* cd directory name
+* Open project on code editor
 -$code .
-Run the project on live server
+* Run the project on live server
 # Technologies Used
-{This page was created using HTML,JAVASCRIPT, BOOTSTRAP and CSS. HTML was used for the structure of the Page outlook while CSS and BOOTSTRAP was used to style the web application and JAVASCRIPT was used to make the page responsive.}
+{This page was created using
+  * HTML
+  * JAVASCRIPT
+  * BOOTSTRAP
+  * CSS.
+  * HTML was used for the structure of the Page outlook while CSS and BOOTSTRAP was used to style the web application and JAVASCRIPT was used to make the page responsive.}
 
 # Link
 
 
-* Support and contact details
+# Support and contact details
 Email alegoantony047@gmail.com Phone +254715399590
 
-License
+# License
 Copyright (c) {2020} {Antony Ondir}
